@@ -28,8 +28,8 @@ A arquitetura segue o padrão comum para workloads executados em Kubernetes.
     Deployment
         │
         ▼
-        Pods
-   (Notifications API)
+       Pods
+(Notifications API)
         │
         ├── ConfigMap
         └── Secret
