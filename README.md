@@ -1,4 +1,4 @@
-# K8s Notifications API
+# Notifications API
 
 API REST responsável por gerenciar e enviar **notificações** dentro de uma arquitetura baseada em **microserviços**, preparada para execução em **containers Docker** e orquestração com **Kubernetes (K8s)**.
 
